@@ -1,5 +1,7 @@
 import React from 'react';
 import Navbar from './Navbar';
+ 
+
 import Home from './Home';
 
 function App() {
@@ -12,7 +14,8 @@ function App() {
       <div className="content">
        
       <Home />
-         </div>
+      </div>
+ 
   
     </div>
   );

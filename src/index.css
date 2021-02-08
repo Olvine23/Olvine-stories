@@ -2,12 +2,16 @@
   *{
      margin: 0;
      font-family: Raleway, sans-serif;
+    
+  }
+  body{
+      background:linear-gradient( to left top ,rgb(212, 90, 111),blue)
   }
   .navbar{
      padding: 20px;
      display:flex;
      align-items: center;
-     max-width: 600px;
+     max-width:1000px;
      margin: 0 auto;
      border-bottom: 1px solid #f2f2f2;
    
@@ -28,7 +32,7 @@
      color: #f1356d;;
   }
   .content{
-     max-width: 600px;
+     max-width: 800px;
      margin: 40px auto;
      padding: 20px;
      line-height: 2.4em;
@@ -58,3 +62,14 @@
   .home{
      color: rgb(209, 48, 19);
   }
+  .title{
+     color: #333;
+  }
+  .length{
+     color: #fff;
+  }
+.load{
+   text-align: center;
+   font-size: x-large;
+   color: black;
+}

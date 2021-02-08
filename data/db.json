@@ -1,0 +1,26 @@
+{
+    "blogs":[
+        {
+            "title":"Me and you",
+            "body":"I love you",
+            "author":"Olvine",
+            "id":1
+
+        },
+        {
+            "title":"Will you",
+            "body":"marry me please ",
+            "author":"George",
+            "id":2
+
+        },
+        {
+            "title":"Thank you",
+            "body":"I will love you everyday",
+            "author":"Laura",
+            "id":3
+
+        }
+
+    ]
+}
