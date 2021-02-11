@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
+import Login from './Login';
  
 
 import Home from './Home';
@@ -13,8 +14,11 @@ function App() {
        <Navbar />
       <div className="content">
        
-      <Home />
+        <Home />
+        <Login />
       </div>
+
+
  
   
     </div>
